@@ -1,0 +1,5 @@
+
+- MongoDB connection establishing class
+- Advances techniques Logger with winston
+- Runtime environment variable validations with joi
+- Configuration file setup + DI with wanger + helmet for web app security

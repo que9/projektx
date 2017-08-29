@@ -1,0 +1,21 @@
+
+NodeJS
+    Performace for large scale nodeJS App
+        - https://stackoverflow.com/questions/9493831/using-nodejs-for-a-big-project
+        - https://www.quora.com/How-should-I-tackle-and-organize-a-large-scale-node-js-application
+    
+    Promises
+        - https://www.guru99.com/node-js-promise-generator-event.html
+    Performace - 
+        - https://www.codementor.io/mattgoldspink/nodejs-best-practices-du1086jja
+
+Efficiency
+    Beatify
+        - https://stackoverflow.com/questions/29973357/how-do-you-format-code-in-visual-studio-code-vscode
+
+
+
+Lintint|Standard|Beatify
+    StandardJS/ESList
+        - https://standardjs.com/
+

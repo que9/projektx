@@ -1,0 +1,15 @@
+#!/usr/bin/env node
+var _debug = require('debug');
+var debug = _debug('flights');
+var error = _debug('error');
+var app = require('../app');
+/**
+ * Error, flights all are the debugging instances
+ */
+
+app.set('port', app.get('config').server.port );
+
+error('This error debugging');
+var server = app.listen(app.get('port'), function() {  
+  debug('Express server listening on port ' + server.address().port);
+});
